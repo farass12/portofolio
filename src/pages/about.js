@@ -12,7 +12,7 @@ const AboutPage = () => (
         {/* + Title */}
         <div className="row mt-4 justify-content-center">
           <div className="col-lg-7 col-sm-12 my-auto headline">
-            <h1>mini biografi~</h1>
+            <h1>biografi~</h1>
           </div>
         </div>
         {/* - Title */}
@@ -24,7 +24,7 @@ const AboutPage = () => (
               <div className="card-body">
                 <div className="card-title">
                   <h2>
-                    Hello!
+                    Hallo!
                     <span role="img" aria-label="Happy face">
                       😊
                     </span>
@@ -46,8 +46,8 @@ const AboutPage = () => (
           {/* + Image */}
           <div className="col-lg-6 my-auto mx-auto">
             <Image
-              fileName="about.jpg"
-              alt="About page"
+              fileName="ayas.jpg"
+              alt="tentang saya"
               className="about-img-wrapper"
             />
           </div>
@@ -92,4 +92,4 @@ const AboutPage = () => (
     </section>
   </Layout>
 )
-export default AboutPage
+export default AboutPage 

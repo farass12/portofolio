@@ -41,7 +41,7 @@ export default function Hero() {
                 <div className="card-body">
                   <div className="icon">
                     <Image
-                      fileName="photo.jpg"
+                      fileName="zhang.jpeg"
                       style={{ width: "5rem", height: "5rem" }}
                       alt="Hero Icon"
                     />
@@ -60,9 +60,9 @@ export default function Hero() {
                     <br />
                   </h4>
                   <p className="card-text">
-                    full-time software dev,
+                    pelajar
                     <br />
-                    airsoft enthusiast
+                    
                   </p>
                   <Links />
                 </div>

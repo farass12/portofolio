@@ -12,16 +12,16 @@ const ContactPage = () => (
       <div className="container">
         <div className="row mt-4">
           <div className="col-md-8">
-            <h1>Contact Details</h1>
+            <h1>kontak dan media sosial</h1>
             <p>
-              Hi! How are you? Thank you for visiting my site. If you have any
-              inquiries or feedback, please don't hesitate to reach out. I am
-              available at the following social media outlets:
+              Hai! Apa kabar? Terima kasih telah mengunjungi situs saya. Jika Anda memiliki
+              pertanyaan atau masukan, jangan ragu untuk menghubungi saya. 
+              di media sosial berikut:
             </p>
             <Links />
             <p>
-              I am currently available for freelance work. My scope of work
-              includes but not limited to:
+              {/* I am currently available for freelance work. My scope of work
+              includes but not limited to: */}
             </p>
             <ul>
               <li>Website Development</li>

@@ -57,10 +57,10 @@ export default class Footer extends Component {
                     </li>
                     <li className="list-inline-item mr-4">
                       <a
-                        href="https://github.com/githubName"
-                        target="_blank"
-                        rel="noreferrer"
-                        alt="github link"
+                        // href="https://github.com/githubName"
+                        // target="_blank"
+                        // rel="noreferrer"
+                        // alt="github link"
                       >
                         <FontAwesomeIcon icon={faGithub} />
                       </a>
