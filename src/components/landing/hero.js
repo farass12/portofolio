@@ -41,7 +41,7 @@ export default function Hero() {
                 <div className="card-body">
                   <div className="icon">
                     <Image
-                      fileName="zhang.jpeg"
+                      fileName="kucing.jpeg"
                       style={{ width: "5rem", height: "5rem" }}
                       alt="Hero Icon"
                     />
