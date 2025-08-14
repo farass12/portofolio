@@ -44,33 +44,31 @@ export default class Content extends Component {
                 {/* + Job subsection */}
                 <div className="subsection">
                   <h2>
-                    <span className="dot"></span>What do I{" "}
-                    <span className="word">do</span>?
+                    <span className="dot"></span>SMK Bina Putra{" "}
+                    <span className="word">Mandiri</span>
                   </h2>
 
                   <div className="card">
                     <div className="card-body">
                       <div className="card-title">
-                        <h3>Eagle Jump Co. Ltd.</h3>
+                        <h3></h3>
                         <h4>
                           <FontAwesomeIcon
                             icon={faBriefcase}
                             className="mr-2"
                           />{" "}
-                          Software Developer
+                          Siswa Jurusan Teknik Komputer dan Jaringan
                         </h4>
                         <h4>
                           <FontAwesomeIcon icon={faCalendar} className="mr-2" />{" "}
-                          Jun 2010 - Present
+                          2023 – Sekarang
                         </h4>
                       </div>
 
                       <div className="card-text">
-                        ◆ I work with Japan's biggest JRPG titles, Fairies
-                        Story. I oversee the software development involving the
-                        characters in the game.
-                        <br />◆ I also lead the testers of the game in its alpha
-                        and beta releases.
+                        ◆ Mempelajari jaringan komputer dan administrasi server.
+                        <br />◆ Mengikuti kegiatan praktik jaringan seperti instalasi LAN dan konfigurasi router.
+                        <br />◆ Terlibat dalam proyek pembuatan website menggunakan Gatsby
                       </div>
                     </div>
                   </div>
@@ -106,8 +104,8 @@ export default class Content extends Component {
                 {/* + School subsection */}
                 <div className="subsection">
                   <h2 className="mt-5">
-                    <span className="dot"></span>Latar Belakang{" "}
-                    <span className="word">Pendidikan</span>?
+                    <span className="dot"></span>Pengalaman{" "}
+                    <span className="word">organisasi</span>
                   </h2>
 
                   <div className="card">
@@ -131,8 +129,9 @@ export default class Content extends Component {
                       </div>
 
                       <div className="card-text">
-                        Fokus pada pembelajaran jaringan komputer, administrasi server, instalasi 
-                        untuk mendukung kemampuan di bidang teknologi informasi.
+                        ◆ Menjadi Sekretaris 
+                        <br />◆ Menjadi wakil ketua OSIS
+                        <br />◆ 
                       </div>
                     </div>
                   </div>
