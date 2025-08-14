@@ -18,17 +18,18 @@ export default function Hero() {
                   👋
                 </span>
               </h1>
-              <h1>Hi. I'm Umiko</h1>
+              <h1>Hai. </h1>
               <p>
-                I work as a software developer at a game company. Will you be my
-                airsoft buddy?
+                saya bersekolah di SMK Bina Putra Mandiri 
+                saya memiliki minat pada menonton drama, khususnya sebagai sarana hiburan 
+                saya senang berkenalan dengan orang-orang baru  
               </p>
               <Link
                 to="content"
                 className="main-button btn btn-primary shadow-sm"
                 smooth={true}
               >
-                Get to know me
+                mari berkenalan dengan saya
               </Link>
             </div>
           </div>

@@ -12,7 +12,7 @@ const AboutPage = () => (
         {/* + Title */}
         <div className="row mt-4 justify-content-center">
           <div className="col-lg-7 col-sm-12 my-auto headline">
-            <h1>My mini autobiography~</h1>
+            <h1>mini biografi~</h1>
           </div>
         </div>
         {/* - Title */}
@@ -24,19 +24,19 @@ const AboutPage = () => (
               <div className="card-body">
                 <div className="card-title">
                   <h2>
-                    Hi there!
+                    Hello!
                     <span role="img" aria-label="Happy face">
                       😊
                     </span>
                   </h2>
-                  <h3>an introduction</h3>
+                  <h3>perkenalkan</h3>
                 </div>
 
                 <div className="card-text">
-                  Cupcake ipsum dolor sit amet sweet roll ice cream cheesecake
-                  chocolate. Lemon drops gummi bears biscuit. Pie gingerbread
-                  tart tootsie roll donut cheesecake. Muffin pie gingerbread
-                  dragée pudding tart tootsie roll.
+                  saya Faras Adilah, yang akrab disapa Ayas, lahir di Bogor pada 29 Juni 2008. 
+                  Saat ini, saya menempuh pendidikan di SMK Bina Putra Mandiri. 
+                  Di sela-sela kesibukannya bersekolah, saya memiliki hobi menonton drama, 
+                  yang menjadi salah satu cara untuk menghibur diri sekaligus menambah wawasan tentang berbagai cerita dan bahasa asing.
                 </div>
               </div>
             </div>
@@ -58,8 +58,8 @@ const AboutPage = () => (
             <div className="card shadow-sm">
               <div className="card-body">
                 <div className="card-title">
-                  <h2>More about me</h2>
-                  <h3>sweet and sweeter</h3>
+                  <h2>lebih banyak tentang saya</h2>
+                  <h3>ayo berkenalan</h3>
                 </div>
 
                 <div className="card-text">

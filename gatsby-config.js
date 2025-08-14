@@ -1,51 +1,41 @@
-/**
- * Configure your Gatsby site with this file.
- *
- * See: https://www.gatsbyjs.com/docs/gatsby-config/
- */
-
 module.exports = {
-  /* Your site config here */
   siteMetadata: {
-    title: `SiteName`,
-    description: `A minimalistic resume style Gatsby portfolio.`,
-    author: `@gmlunesa`,
+    title: "Personal Portfolio",
+    description: "My portfolio built with Gatsby",
+    author: "Your Name",
   },
   plugins: [
-    `gatsby-plugin-react-helmet`,
+    "gatsby-plugin-image",
+    "gatsby-plugin-react-helmet",
     {
-      resolve: `gatsby-source-filesystem`,
+      resolve: "gatsby-source-filesystem",
       options: {
-        name: `images`,
-        path: `${__dirname}/src/images`,
+        name: "images",
+        path: `${__dirname}/src/images/`,
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
     {
-      resolve: `gatsby-plugin-manifest`,
+      resolve: "gatsby-source-filesystem",
       options: {
-        name: `SiteName`,
-        short_name: `SiteName`,
-        start_url: `/`,
-        background_color: `#1b1c1e`,
-        theme_color: `#1b1c1e`,
-        display: `minimal-ui`,
-        icon: `src/images/favicon.png`, // This path is relative to the root of the site.
+        name: "data",
+        path: `${__dirname}/src/data/`,
       },
     },
-    `gatsby-transformer-json`,
+    "gatsby-transformer-json",
+    "gatsby-transformer-sharp",
+    "gatsby-plugin-sharp",
     {
-      resolve: `gatsby-source-filesystem`,
+      resolve: "gatsby-plugin-manifest",
       options: {
-        name: `data`,
-        path: `${__dirname}/src/data`,
+        name: "Personal Portfolio",
+        short_name: "Portfolio",
+        start_url: "/",
+        background_color: "#ffffff",
+        theme_color: "#663399",
+        display: "standalone",
+        icon: "src/images/icon.png",
       },
     },
-    `gatsby-plugin-dark-mode`,
-    `gatsby-plugin-sass`,
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    `gatsby-plugin-offline`,
+    "gatsby-plugin-sass",
   ],
-}
+};
