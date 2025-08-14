@@ -80,8 +80,8 @@ export default class Content extends Component {
                 {/* + Technologies subsection */}
                 <div className="subsection">
                   <h2 className="mt-5">
-                    <span className="dot"></span>What do I{" "}
-                    <span className="word">know</span>?
+                    <span className="dot"></span>apa yang{" "}
+                    <span className="word">saya bisa</span>?
                   </h2>
                   <div className="row">
                     {data.allLanguagesJson.edges.map(({ node }, index) => (
@@ -106,35 +106,33 @@ export default class Content extends Component {
                 {/* + School subsection */}
                 <div className="subsection">
                   <h2 className="mt-5">
-                    <span className="dot"></span>What did I{" "}
-                    <span className="word">study</span>?
+                    <span className="dot"></span>Latar Belakang{" "}
+                    <span className="word">Pendidikan</span>?
                   </h2>
 
                   <div className="card">
                     <div className="card-body">
                       <div className="card-title">
-                        <h3>Tokyo Institute of Technology</h3>
+                        <h3>SMK Bina Putra Mandiri</h3>
                         <h4>
                           <FontAwesomeIcon
                             icon={faGraduationCap}
                             className="mr-2"
                           />
-                          Computer Science
+                          Teknik Komputer dan Jaringan (TKJ)
                         </h4>
                         <h4>
                           <FontAwesomeIcon
                             icon={faUserGraduate}
                             className="mr-2"
                           />{" "}
-                          Jan 2010
+                          Juli 2023 - sekarang
                         </h4>
                       </div>
 
                       <div className="card-text">
-                        I earned my Bachelor's Degree in Computer Science in
-                        Tokyo Institute of Technology. For my undergraduate
-                        thesis, I wrote this model motion development through
-                        convolutional neural networks.
+                        Fokus pada pembelajaran jaringan komputer, administrasi server, instalasi 
+                        untuk mendukung kemampuan di bidang teknologi informasi.
                       </div>
                     </div>
                   </div>
@@ -144,8 +142,8 @@ export default class Content extends Component {
                 {/* + Projects subsection */}
                 <div className="subsection">
                   <h2 className="mt-5">
-                    <span className="dot"></span>What have I{" "}
-                    <span className="word">experimented with</span>?
+                    <span className="dot"></span>Apa saja yang sudah saya coba?{" "}
+                    {/* <span className="word">experimented with</span>? */}
                   </h2>
                   <div className="row">
                     {data.allProjectsJson.edges.map(({ node }, index) => (

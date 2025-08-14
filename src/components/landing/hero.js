@@ -20,9 +20,8 @@ export default function Hero() {
               </h1>
               <h1>Hai. </h1>
               <p>
-                saya bersekolah di SMK Bina Putra Mandiri 
-                saya memiliki minat pada menonton drama, khususnya sebagai sarana hiburan 
-                saya senang berkenalan dengan orang-orang baru  
+                saya faras adilah,,mari cari tahu lebih banyak 
+                tentang saya   
               </p>
               <Link
                 to="content"
@@ -47,7 +46,7 @@ export default function Hero() {
                       alt="Hero Icon"
                     />
                   </div>
-                  <h3 className="card-title">@umikokommando</h3>
+                  <h3 className="card-title">@1ovingyas</h3>
                   <h4>
                     <span
                       className="mr-1"
@@ -57,7 +56,7 @@ export default function Hero() {
                     >
                       📍
                     </span>
-                    Tokyo
+                    indonesia
                     <br />
                   </h4>
                   <p className="card-text">
