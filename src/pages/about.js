@@ -63,12 +63,25 @@ const AboutPage = () => (
                 </div>
 
                 <div className="card-text">
-                  Bonbon chocolate bar ice cream brownie ice cream macaroon
-                  halvah. Toffee tart chupa chups ice cream croissant jujubes
-                  lollipop. Dragée jelly beans sesame snaps wafer muffin sesame
-                  snaps topping bonbon ice cream. Macaroon cake biscuit gummies
-                  sweet sweet chocolate cake. Danish sweet roll carrot cake
-                  croissant. Donut chocolate cake jelly beans.
+                  <p>
+                    Saya Faras Adilah, yang biasa dipanggil Ayas, lahir di Kota Bogor pada 29 Juni 2008. 
+                  Saat ini saya sedang menempuh pendidikan di SMK Bina Putra Mandiri dengan jurusan Teknik Komputer dan Jaringan (TKJ). 
+                  Dunia teknologi menjadi bidang yang menarik bagi saya, karena di dalamnya saya dapat belajar banyak hal
+                  mulai dari dasar jaringan komputer hingga pengembangan website.
+                  </p>
+                  
+                  <p>
+                    Di luar kegiatan belajar formal, saya memiliki minat besar pada dunia hiburan, khususnya menonton drama. 
+                  Bagi saya, drama bukan hanya sekadar tontonan, tetapi juga sarana untuk memperluas wawasan, memahami budaya, dan mempelajari bahasa asing secara menyenangkan. 
+                  Kebiasaan ini membantu saya dalam mengasah kemampuan observasi, imajinasi, dan pemahaman terhadap berbagai karakter serta cerita.
+                  </p>
+
+                  <p>
+                    Saya senang mencoba hal baru, disiplin, dan berusaha konsisten dalam menyelesaikan tugas. 
+                  Ke depan, saya berharap dapat mengembangkan keterampilan di bidang teknologi informasi sekaligus menggabungkannya dengan kreativitas
+                  sehingga mampu menghasilkan karya yang bermanfaat.
+                  </p>
+
                 </div>
               </div>
             </div>
