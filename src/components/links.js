@@ -4,8 +4,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons"
 import {
   faTwitter,
-  faGithub,
-  faLinkedin,
+  // faGithub,
+  // faLinkedin,
   faInstagramSquare,
 } from "@fortawesome/free-brands-svg-icons"
 
@@ -37,7 +37,7 @@ export default function Links() {
           href="https://instagram.com/1ovingyas"
           target="_blank"
           rel="noreferrer"
-          alt="linkedin link"
+          alt="instagram link"
         >
           <FontAwesomeIcon icon={faInstagramSquare} />
         </a>
