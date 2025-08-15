@@ -6,6 +6,7 @@ import {
   faTwitter,
   faGithub,
   faLinkedin,
+  faInstagramSquare,
 } from "@fortawesome/free-brands-svg-icons"
 
 export default function Links() {
@@ -33,12 +34,12 @@ export default function Links() {
       </li> */}
       <li className="list-group-item">
         <a
-          href="https://linkedin.com/linkedInName"
+          href="https://instagram.com/1ovingyas"
           target="_blank"
           rel="noreferrer"
           alt="linkedin link"
         >
-          <FontAwesomeIcon icon={faLinkedin} />
+          <FontAwesomeIcon icon={faInstagramSquare} />
         </a>
       </li>
       <li className="list-group-item">
