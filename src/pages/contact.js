@@ -24,11 +24,11 @@ const ContactPage = () => (
               includes but not limited to: */}
             </p>
             <ul>
-              <li>Website Development</li>
+              {/* <li>Website Development</li>
               <li>User Interface (UI) Design</li>
               <li>Logo Creation</li>
               <li>Website Scraping Automation</li>
-              <li>Quality Assurance Testing</li>
+              <li>Quality Assurance Testing</li> */}
             </ul>
 
             <a

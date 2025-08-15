@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Personal Portfolio",
-    description: "My portfolio built with Gatsby",
-    author: "Your Name",
+    title: "faras Portfolio",
+    description: "portofolio faras",
+    author: "faras adilah",
   },
   plugins: [
     "gatsby-plugin-image",
@@ -27,7 +27,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        name: "Personal Portfolio",
+        name: "portofolio faras",
         short_name: "Portfolio",
         start_url: "/",
         background_color: "#ffffff",
