@@ -44,8 +44,8 @@ export default class Content extends Component {
                 {/* + Job subsection */}
                 <div className="subsection">
                   <h2>
-                    <span className="dot"></span>SMK Bina Putra{" "}
-                    <span className="word">Mandiri</span>
+                    <span className="dot"></span>Faras{" "}
+                    <span className="word">Adilah</span>
                   </h2>
 
                   <div className="card">
@@ -57,7 +57,7 @@ export default class Content extends Component {
                             icon={faBriefcase}
                             className="mr-2"
                           />{" "}
-                          Siswa Jurusan Teknik Komputer dan Jaringan
+                          Siswi Jurusan Teknik Komputer dan Jaringan
                         </h4>
                         <h4>
                           <FontAwesomeIcon icon={faCalendar} className="mr-2" />{" "}
@@ -66,9 +66,10 @@ export default class Content extends Component {
                       </div>
 
                       <div className="card-text">
-                        ◆ Mempelajari jaringan komputer dan administrasi server.
-                        <br />◆ Mengikuti kegiatan praktik jaringan seperti instalasi LAN dan konfigurasi router.
-                        <br />◆ Terlibat dalam proyek pembuatan website menggunakan Gatsby
+                        ◆ saya bersekolah di SMK Bina Putra Mandiri dengan jurusan TKJ 
+                        <br />◆ Saya suka menonton drama terutama drama china
+                        <br />◆ saya menyukai kucing
+                        <br />◆ saya menyukai makanan manis
                       </div>
                     </div>
                   </div>
