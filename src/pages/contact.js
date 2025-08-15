@@ -35,7 +35,7 @@ const ContactPage = () => (
               href="content"
               className="main-button btn btn-primary shadow-sm mt-2"
             >
-              Download my resume
+              Download portofolio saya
             </a>
           </div>
           <div className="col-lg-4 my-auto">

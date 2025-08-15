@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "faras Portfolio",
-    description: "portofolio faras",
-    author: "faras adilah",
+    title: "Faras Portfolio",
+    description: "portofolio Faras",
+    author: "Faras Adilah",
   },
   plugins: [
     "gatsby-plugin-image",
@@ -27,13 +27,13 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        name: "portofolio faras",
+        name: "portofolio Faras",
         short_name: "Portfolio",
         start_url: "/",
-        background_color: "#ffffff",
-        theme_color: "#663399",
+        background_color: "#ffc6eeff",
+        theme_color: "#fca0e4ff",
         display: "standalone",
-        icon: "src/images/icon.png",
+        icon: "src/images/iconayas.jpeg",
       },
     },
     "gatsby-plugin-sass",
