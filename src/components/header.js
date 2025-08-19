@@ -3,7 +3,7 @@ import React from "react"
 
 // import Toggler from "./toggler"
 
-import { ThemeToggler } from "gatsby-plugin-dark-mode"
+// import { ThemeToggler } from "gatsby-plugin-dark-mode"
 
 // import { Link } from "gatsby"
 // import PropTypes from "prop-types"
