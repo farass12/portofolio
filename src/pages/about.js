@@ -73,7 +73,6 @@ const AboutPage = () => (
                   <p>
                     Di luar kegiatan belajar formal, saya memiliki minat besar pada dunia hiburan, khususnya menonton drama. 
                   Bagi saya, drama bukan hanya sekadar tontonan, tetapi juga sarana untuk memperluas wawasan, memahami budaya, dan mempelajari bahasa asing secara menyenangkan. 
-                  Kebiasaan ini membantu saya dalam mengasah kemampuan observasi, imajinasi, dan pemahaman terhadap berbagai karakter serta cerita.
                   </p>
 
                   <p>

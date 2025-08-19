@@ -13,7 +13,7 @@ body {
   font-weight: 450;
 
   color: var(--base);
-  background-color: var(--primary);
+  background-color: rgb(255, 243, 245);
 
   // Avoid flash when switching modes
   transition: color 0.2s ease-in, background-color 0.2s ease-in !important;
@@ -21,13 +21,13 @@ body {
   -webkit-tap-highlight-color: transparent;
 
   // Link colors
-  --link-primary: #5a67d8;
+  --link-primary: #ffc8fb;
   --link-secondary: #3182ce;
   --link-tertiary: #63b3ed;
   --text-on-link: #ffffff;
 
   ::selection {
-    color: white;
+    color: rgb(255, 193, 215);
     background-color: var(--link-tertiary);
   }
 
