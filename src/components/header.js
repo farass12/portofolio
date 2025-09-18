@@ -100,8 +100,8 @@ export default class Header extends Component {
                               </div>
                             ) : (
                               <div>
-                                <span role="img" aria-label="Moon">
-                                  🌚
+                                <span role="img" aria-label="Smile">
+                                  😊
                                 </span>
                               </div>
                             )}

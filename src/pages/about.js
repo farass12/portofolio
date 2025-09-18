@@ -6,8 +6,8 @@ import Image from "../components/image"
 
 const AboutPage = () => (
   <Layout>
-    <SEO title="About" />
-    <section className="about">
+    <SEO title="Tentang" />
+    <section className="Tentang">
       <div className="container">
         {/* + Title */}
         <div className="row mt-4 justify-content-center">

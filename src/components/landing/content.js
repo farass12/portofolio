@@ -67,9 +67,9 @@ export default class Content extends Component {
 
                       <div className="card-text">
                         ◆ saya bersekolah di SMK Bina Putra Mandiri dengan jurusan TKJ 
-                        <br />◆ Saya suka menonton drama terutama drama china
-                        <br />◆ saya menyukai kucing
-                        <br />◆ saya menyukai makanan manis
+                        <br />◆ 
+                        <br />◆ 
+                        <br />◆ 
                       </div>
                     </div>
                   </div>

@@ -20,7 +20,7 @@ export default function Hero() {
               </h1>
               <h1>Hai. </h1>
               <p>
-                saya faras adilah,,mari cari tahu lebih banyak 
+                saya Faras Adilah,,mari cari tahu lebih banyak 
                 tentang saya   
               </p>
               <Link

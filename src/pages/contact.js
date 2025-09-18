@@ -7,8 +7,8 @@ import contactimg from "../images/contactimg.svg"
 
 const ContactPage = () => (
   <Layout>
-    <SEO title="Contact" />
-    <section className="contact">
+    <SEO title="Kontak" />
+    <section className="Kontak">
       <div className="container">
         <div className="row mt-4">
           <div className="col-md-8">
