@@ -66,8 +66,8 @@ export default class Content extends Component {
                       </div>
 
                       <div className="card-text">
-                        ◆ saya bersekolah di SMK Bina Putra Mandiri dengan jurusan TKJ 
-                        <br />◆ 
+                        ◆  bogor, Parung Panjang
+                        <br />◆ bersekolah di SMK Bina Putra Mandiri dengan jurusan TKJ
                         <br />◆ 
                         <br />◆ 
                       </div>
@@ -106,7 +106,7 @@ export default class Content extends Component {
                 <div className="subsection">
                   <h2 className="mt-5">
                     <span className="dot"></span>Pengalaman{" "}
-                    <span className="word">organisasi</span>
+                    {/* <span className="word">organisasi</span> */}
                   </h2>
 
                   <div className="card">
@@ -132,7 +132,7 @@ export default class Content extends Component {
                       <div className="card-text">
                         ◆ Menjadi Sekretaris 
                         <br />◆ Menjadi wakil ketua OSIS
-                        <br />◆ 
+                        <br />◆ PKL DI bidang Pengembangan WEB
                       </div>
                     </div>
                   </div>
