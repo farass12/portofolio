@@ -73,12 +73,12 @@ export default class Header extends Component {
                   <ul className="navbar-nav ml-auto">
                     <li className="nav-item my-auto ml-2">
                       <Link className="nav-link" to="/about">
-                        About
+                        tentang
                       </Link>
                     </li>
                     <li className="nav-item my-auto ml-2">
                       <Link className="nav-link" to="/contact">
-                        Contact
+                        kontak
                       </Link>
                     </li>
                     <li className="nav-item my-auto ml-2">
@@ -88,11 +88,11 @@ export default class Header extends Component {
                             <input
                               type="checkbox"
                               onChange={e =>
-                                toggleTheme(e.target.checked ? "dark" : "light")
+                                toggleTheme(e.target.checked ? "light" : "light")
                               }
-                              checked={theme === "dark"}
+                              checked={theme === "light"}
                             />
-                            {theme === "dark" ? (
+                            {theme === "light" ? (
                               <div>
                                 <span role="img" aria-label="Sun">
                                   🌞

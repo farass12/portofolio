@@ -12,7 +12,7 @@ const AboutPage = () => (
         {/* + Title */}
         <div className="row mt-4 justify-content-center">
           <div className="col-lg-7 col-sm-12 my-auto headline">
-            <h1>biografi~</h1>
+            <h1>biografi faras~</h1>
           </div>
         </div>
         {/* - Title */}
@@ -34,9 +34,7 @@ const AboutPage = () => (
 
                 <div className="card-text">
                   saya Faras Adilah, yang akrab disapa Ayas, lahir di Bogor pada 29 Juni 2008. 
-                  Saat ini, saya menempuh pendidikan di SMK Bina Putra Mandiri. 
-                  Di sela-sela kesibukannya bersekolah, saya memiliki hobi menonton drama, 
-                  yang menjadi salah satu cara untuk menghibur diri sekaligus menambah wawasan tentang berbagai cerita dan bahasa asing.
+                  Saat ini, saya menempuh pendidikan di SMK Bina Putra Mandiri.
                 </div>
               </div>
             </div>
