@@ -18,9 +18,9 @@ export default function Hero() {
                   👋
                 </span>
               </h1>
-              <h1>Hai. </h1>
+              <h1>Halo. </h1>
               <p>
-                saya Faras Adilah,,mari cari tahu lebih banyak 
+                saya Faras Adilah,mari cari tahu lebih banyak 
                 tentang saya   
               </p>
               <Link
@@ -60,7 +60,7 @@ export default function Hero() {
                     <br />
                   </h4>
                   <p className="card-text">
-                    pelajar
+                    fres graduate
                     <br />
                     
                   </p>

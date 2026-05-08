@@ -51,25 +51,24 @@ export default class Content extends Component {
                   <div className="card">
                     <div className="card-body">
                       <div className="card-title">
-                        <h3></h3>
+                        <h3>profil singkat</h3>
                         <h4>
                           <FontAwesomeIcon
                             icon={faBriefcase}
                             className="mr-2"
                           />{" "}
-                          Siswi Jurusan Teknik Komputer dan Jaringan
+                          Jurusan Teknik Komputer dan Jaringan
                         </h4>
                         <h4>
                           <FontAwesomeIcon icon={faCalendar} className="mr-2" />{" "}
-                          2023 – Sekarang
+                          Lulusan 2023 – 2026
                         </h4>
                       </div>
 
                       <div className="card-text">
-                        ◆  bogor, Parung Panjang
-                        <br />◆ bersekolah di SMK Bina Putra Mandiri dengan jurusan TKJ
-                        <br />◆ 
-                        <br />◆ 
+                        ◆  Bogor 29 juni 2008
+                        <br />◆ kp.Cikabon Parung Panjang
+                        <br />◆ lulusan SMK Bina Putra Mandiri, jurusan TKJ
                       </div>
                     </div>
                   </div>
@@ -105,14 +104,14 @@ export default class Content extends Component {
                 {/* + School subsection */}
                 <div className="subsection">
                   <h2 className="mt-5">
-                    <span className="dot"></span>Pengalaman{" "}
+                    <span className="dot"></span>Pengalaman & Aktivitas{" "}
                     {/* <span className="word">organisasi</span> */}
                   </h2>
 
                   <div className="card">
                     <div className="card-body">
                       <div className="card-title">
-                        <h3>SMK Bina Putra Mandiri</h3>
+                        <h3>Pengalaman Kepemimpinan & Magang</h3>
                         <h4>
                           <FontAwesomeIcon
                             icon={faGraduationCap}
@@ -125,14 +124,14 @@ export default class Content extends Component {
                             icon={faUserGraduate}
                             className="mr-2"
                           />{" "}
-                          Juli 2023 - sekarang
+                          Juli 2023 - mei 2026
                         </h4>
                       </div>
 
                       <div className="card-text">
-                        ◆ Menjadi Sekretaris 
-                        <br />◆ Menjadi wakil ketua OSIS
-                        <br />◆ PKL DI bidang Pengembangan WEB
+                        ◆ Mengelola administrasi organisasi
+                        <br />◆ Wakil Ketua OSIS
+                        <br />◆ Pengembangan Website
                       </div>
                     </div>
                   </div>

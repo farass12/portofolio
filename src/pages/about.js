@@ -12,7 +12,7 @@ const AboutPage = () => (
         {/* + Title */}
         <div className="row mt-4 justify-content-center">
           <div className="col-lg-7 col-sm-12 my-auto headline">
-            <h1>biografi faras~</h1>
+            <h1>Profil Singkat</h1>
           </div>
         </div>
         {/* - Title */}
@@ -33,8 +33,8 @@ const AboutPage = () => (
                 </div>
 
                 <div className="card-text">
-                  saya Faras Adilah, yang akrab disapa Ayas, lahir di Bogor pada 29 Juni 2008. 
-                  Saat ini, saya menempuh pendidikan di SMK Bina Putra Mandiri.
+                  Saya Faras Adilah, fresh graduate jurusan Teknik Komputer dan Jaringan (TKJ) dari SMK Bina Putra Mandiri. 
+                  Saya memiliki minat di bidang teknologi, administrasi, dan pengembangan website serta senang mempelajari hal baru dan mengembangkan keterampilan
                 </div>
               </div>
             </div>
@@ -44,7 +44,7 @@ const AboutPage = () => (
           {/* + Image */}
           <div className="col-lg-6 my-auto mx-auto">
             <Image
-              fileName="ayas.jpg"
+              fileName="faras.jpg"
               alt="tentang saya"
               className="about-img-wrapper"
             />
@@ -56,27 +56,29 @@ const AboutPage = () => (
             <div className="card shadow-sm">
               <div className="card-body">
                 <div className="card-title">
-                  <h2>lebih banyak tentang saya</h2>
-                  <h3>ayo berkenalan</h3>
-                </div>
+  <h2 className="about-title">
+    <span className="emoji">✨</span>
+    tentang saya
+  </h2>
+</div>
 
                 <div className="card-text">
-                  <p>
-                    Saya Faras Adilah, yang biasa dipanggil Ayas, lahir di Kota Bogor pada 29 Juni 2008. 
-                  Saat ini saya sedang menempuh pendidikan di SMK Bina Putra Mandiri dengan jurusan Teknik Komputer dan Jaringan (TKJ). 
-                  Dunia teknologi menjadi bidang yang menarik bagi saya, karena di dalamnya saya dapat belajar banyak hal
-                  mulai dari dasar jaringan komputer hingga pengembangan website.
-                  </p>
-                  
-                  <p>
-                    Di luar kegiatan belajar formal, saya memiliki minat besar pada dunia hiburan, khususnya menonton drama. 
-                  Bagi saya, drama bukan hanya sekadar tontonan, tetapi juga sarana untuk memperluas wawasan, memahami budaya, dan mempelajari bahasa asing secara menyenangkan. 
-                  </p>
+  <p>
+    👋 Halo! Saya Faras Adilah, biasa dipanggil Ayas. Saya merupakan fresh graduate
+    jurusan Teknik Komputer dan Jaringan (TKJ) dari SMK Bina Putra Mandiri.
+  </p>
 
-                  <p>
-                    Saya senang mencoba hal baru, disiplin, dan berusaha konsisten dalam menyelesaikan tugas. 
+  <p>
+    📌 Saya senang mencoba hal baru, disiplin, dan berusaha konsisten dalam menyelesaikan tugas. 
                   Ke depan, saya berharap dapat mengembangkan keterampilan di bidang teknologi informasi sekaligus menggabungkannya dengan kreativitas
                   sehingga mampu menghasilkan karya yang bermanfaat.
+  </p>
+
+                  <p>
+                   💼 Melalui pengalaman organisasi dan kegiatan PKL, saya belajar mengenai
+    tanggung jawab, komunikasi, dan pengembangan keterampilan di bidang
+    teknologi informasi. Ke depan, saya berharap dapat terus berkembang dan
+    menghasilkan karya yang bermanfaat.
                   </p>
 
                 </div>
